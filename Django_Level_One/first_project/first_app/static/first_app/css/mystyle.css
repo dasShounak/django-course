@@ -1,0 +1,22 @@
+h1{
+  color: salmon;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #444;
+  margin: 0;
+  padding: 0;
+}
+
+th {
+  background: #ccc;
+}
+
+th,td {
+  padding: 10px 20px;
+  color: #444;
+}
