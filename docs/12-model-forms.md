@@ -39,8 +39,8 @@ So far, we have only returned user data to the console. But in real websites, we
    * **model:** The model from which the form is to be generated.
    * **fields:** The model attributes which will generate a form field. It as three options:
      			1. `"__all__"`: Include all attributes
-     			1. `include(field1, field2, ...)`: Include only specified fields
-     			1. `exclued(field1, field2, ...)`: Exclude only specified fields
+       			1. `include(field1, field2, ...)`: Include only specified fields
+       			1. `exclued(field1, field2, ...)`: Exclude only specified fields
 
 3. Now create a template and view.
 
